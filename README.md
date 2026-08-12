@@ -10,7 +10,7 @@ Databricks, Apache Airflow, Docker, AWS, and cloud data platforms.
 My goal is not just to learn tools, but to understand how reliable,
 scalable, cost-efficient, and maintainable data pipelines are designed.
 
-- 🎯 **Target Role:** Aspiring Data Engineer | Fresher
+- 🎯 **Target Role:**  Data Engineer | Fresher
 - 📍 **Focus:** Data Engineering & Cloud
 - 🔨 **Learning Approach:** Learn → Build → Break → Optimize → Document
 - 💼 **LinkedIn:** [Click Here To Connect with me](https://www.linkedin.com/in/abdul-khadir-44876735a)
