@@ -44,25 +44,3 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
 </p>
 
 ---
-
-### 🚀 Next: Data Streaming & Cloud Warehouse
-
-<p align="left">
-
-  <!-- Kafka -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"
-       alt="Apache Kafka" width="50" height="50"/>
-
-  <!-- Snowflake -->
-  <img src="https://cdn.simpleicons.org/snowflake"
-       alt="Snowflake" width="50" height="50"/>
-
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkhadir63&show_icons=true&theme=dark" alt="Abdulkhadir63 GitHub stats" />
-</p>
