@@ -8,7 +8,7 @@
 - 📍 **Focus:** Data Engineering & Cloud
 - 🔨 **Learning Approach:** Learn → Build → Break → Optimize → Document
 - 💼 **LinkedIn:** [Click Here To Connect with me](https://www.linkedin.com/in/abdul-khadir-44876735a)
-- 📬 **Instagram** [Click Here To Follow me](https://www.instagram.com/abdulkm_63?igsh=Ymo4cnowcXhjMHVv)![LinkedIn
+- 📬 **Instagram** [Click Here To Follow me](https://www.instagram.com/abdulkm_63?igsh=Ymo4cnowcXhjMHVv)
 
 ---
 
