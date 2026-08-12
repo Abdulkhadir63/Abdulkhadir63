@@ -38,7 +38,7 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
   <!-- AWS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
   <!-- Kafka -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="45" height="45" color="white"/>
   <!-- Snowflake -->
   <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" width="45" height="45"/>
 </p>
