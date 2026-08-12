@@ -18,9 +18,8 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Tools and Stack
 
-### ✅ Completed & Practiced
 
 <p align="left">
   <!-- Python -->
