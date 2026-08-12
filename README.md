@@ -13,7 +13,7 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
 - 🎯 **Target Role:** Aspiring Data Engineer | Fresher
 - 📍 **Focus:** Data Engineering & Cloud
 - 🔨 **Learning Approach:** Learn → Build → Break → Optimize → Document
-- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/abdul-khadir-44876735a](https://www.linkedin.com/in/abdul-khadir-44876735a)
+- 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com/)](https://www.linkedin.com/in/abdul-khadir-44876735a/)
 - 📬 **Email:** abdulkhadir6333@gmail.com
 
 ---
