@@ -22,7 +22,7 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
 
 ### ✅ Completed & Practiced
 
-<p align="left">
+<p style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -72,6 +72,7 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
        alt="Docker" width="45" height="45"/>
 
 </p>
+
 
 ---
 
