@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hi 👋, I'm Abdul Khadir </h1>
+<img width="754" height="143" alt="image" src="https://github.com/user-attachments/assets/4fdd516f-970d-430b-9c21-3a4a28d8ab00" /><h1 style="text-align: center;"> Hi 👋, I'm Abdul Khadir </h1>
 
 I'm an aspiring Data Engineer focused on building strong fundamentals and
 practical, production-oriented skills.
@@ -32,17 +32,16 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
   <!-- PySpark -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="45" height="45"/>
   <!-- Databricks -->
-  <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="45" height="45"/>
   <!-- Airflow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="45" height="45"/>
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <!-- Kafka -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="45" height="45" color="white"/>
+  <!-- AWS (Bright Orange/Yellow Variant) -->
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="45" height="45"/>
+  <!-- Kafka (Bright White/Red Variant) -->
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Kafka" width="45" height="45" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   <!-- Snowflake -->
   <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" width="45" height="45"/>
 </p>
-
 
 ---
 
