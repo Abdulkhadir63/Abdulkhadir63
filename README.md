@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdul Khadir
+                                                                          # Hi 👋, I'm Abdul Khadir
 
 I am an aspiring Data Engineer passionate about processing large-scale data, building modern data pipelines, and implementing Medallion Architectures. I work with PySpark, Apache Spark, SQL, Airflow, and Databricks to transform raw data into actionable insights.
 
