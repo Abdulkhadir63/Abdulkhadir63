@@ -22,77 +22,57 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
 
 ### ✅ Completed & Practiced
 
-<p style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+<p style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 15px; align-items: center; overflow-x: auto;">
 
   <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Python" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+  <img src="https://githubusercontent.com"
        alt="NumPy" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Pandas" width="45" height="45"/>
 
   <!-- SQL / Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+  <img src="https://githubusercontent.com"
        alt="MySQL" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+  <img src="https://githubusercontent.com"
        alt="PostgreSQL" width="45" height="45"/>
 
   <!-- Big Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Hadoop" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Apache Spark" width="45" height="45"/>
 
   <!-- Databricks -->
-  <img src="https://cdn.simpleicons.org/databricks"
+  <img src="https://simpleicons.org"
        alt="Databricks" width="45" height="45"/>
 
   <!-- Airflow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Apache Airflow" width="45" height="45"/>
 
   <!-- Git / GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Git" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+  <img src="https://githubusercontent.com"
        alt="GitHub" width="45" height="45"/>
 
   <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Linux" width="45" height="45"/>
 
   <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+  <img src="https://githubusercontent.com"
        alt="Docker" width="45" height="45"/>
 
 </p>
 
-
----
-
-### ☁️ Currently Learning
-
-<p align="left">
-
-  <!-- AWS -->
-  <img src="https://cdn.simpleicons.org/amazonaws"
-       alt="AWS" width="50" height="50"/>
-
-  <!-- S3 -->
-  <img src="https://cdn.simpleicons.org/amazons3"
-       alt="Amazon S3" width="50" height="50"/>
-
-  <!-- AWS Glue -->
-  <img src="https://cdn.simpleicons.org/awsglue"
-       alt="AWS Glue" width="50" height="50"/>
-
-</p>
 
 ---
 
