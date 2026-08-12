@@ -1,11 +1,9 @@
 <h1 style="text-align: center;"> Hi 👋, I'm Abdul Khadir </h1>
 
 **I'm an aspiring Data Engineer focused on building strong fundamentals and practical, production-oriented skills.**
-
 **My learning journey started with programming and data fundamentals and has progressed into modern Data Engineering technologies including PySpark, Databricks, Apache Airflow, Docker, AWS, and cloud data platforms.**
 
 **My goal is not just to learn tools, but to understand how reliable, scalable, cost-efficient, and maintainable data pipelines are designed.**
-
 - 🎯 **Target Role:**  Data Engineer | Fresher
 - 📍 **Focus:** Data Engineering & Cloud
 - 🔨 **Learning Approach:** Learn → Build → Break → Optimize → Document
