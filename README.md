@@ -22,55 +22,20 @@ scalable, cost-efficient, and maintainable data pipelines are designed.
 
 ### ✅ Completed & Practiced
 
-<p style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 15px; align-items: center; overflow-x: auto;">
-
-  <!-- Programming -->
-  <img src="https://githubusercontent.com"
-       alt="Python" width="45" height="45"/>
-
-  <img src="https://githubusercontent.com"
-       alt="NumPy" width="45" height="45"/>
-
-  <img src="https://githubusercontent.com"
-       alt="Pandas" width="45" height="45"/>
-
-  <!-- SQL / Databases -->
-  <img src="https://githubusercontent.com"
-       alt="MySQL" width="45" height="45"/>
-
-  <img src="https://githubusercontent.com"
-       alt="PostgreSQL" width="45" height="45"/>
-
-  <!-- Big Data -->
-  <img src="https://githubusercontent.com"
-       alt="Hadoop" width="45" height="45"/>
-
-  <img src="https://githubusercontent.com"
-       alt="Apache Spark" width="45" height="45"/>
-
-  <!-- Databricks -->
-  <img src="https://simpleicons.org"
-       alt="Databricks" width="45" height="45"/>
-
-  <!-- Airflow -->
-  <img src="https://githubusercontent.com"
-       alt="Apache Airflow" width="45" height="45"/>
-
-  <!-- Git / GitHub -->
-  <img src="https://githubusercontent.com"
-       alt="Git" width="45" height="45"/>
-
-  <img src="https://githubusercontent.com"
-       alt="GitHub" width="45" height="45"/>
-
-  <!-- Linux -->
-  <img src="https://githubusercontent.com"
-       alt="Linux" width="45" height="45"/>
-
-  <!-- Docker -->
-  <img src="https://githubusercontent.com"
-       alt="Docker" width="45" height="45"/>
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 </p>
 
 
