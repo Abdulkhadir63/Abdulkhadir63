@@ -1,9 +1,19 @@
 <h1 style="text-align: center;"> Hi 👋, I'm Abdul Khadir </h1>
 
-I am an aspiring Data Engineer passionate about processing large-scale data, building modern data pipelines, and implementing Medallion Architectures. I work with PySpark, Apache Spark, SQL, Airflow, and Databricks to transform raw data into actionable insights.
+I'm an aspiring Data Engineer focused on building strong fundamentals and
+practical, production-oriented skills.
 
-- 🔭 **Role:** Data Engineer
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+My learning journey started with programming and data fundamentals and has
+progressed into modern Data Engineering technologies including PySpark,
+Databricks, Apache Airflow, Docker, AWS, and cloud data platforms.
+
+My goal is not just to learn tools, but to understand how reliable,
+scalable, cost-efficient, and maintainable data pipelines are designed.
+
+- 🎯 **Target Role:** Aspiring Data Engineer | Fresher
+- 📍 **Focus:** Data Engineering & Cloud
+- 🔨 **Learning Approach:** Learn → Build → Break → Optimize → Document
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 - 📬 **Email:** abdulkhadir6333@gmail.com
 
 ---
